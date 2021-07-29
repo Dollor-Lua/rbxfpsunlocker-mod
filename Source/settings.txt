@@ -1,0 +1,8 @@
+UnlockClient=1
+UnlockStudio=1
+FPSCapSelection=5
+FPSCap=75.000000
+CheckForUpdates=1
+NonBlockingErrors=1
+SilentErrors=0
+QuickStart=0
